@@ -1,10 +1,8 @@
 MAC
-colours
 DHCP config file - regex problem ( only xx.xx.xxx.1/24 compatible )
-
-
-deauth
-Enable SSL in apache
-
 permenently backup html, apache config and dnsmasq configs. 
-make a 'permenent backup checker'.
+make a 'permenent backup checker.
+deauthEnable SSL in apache
+colours
+
+
