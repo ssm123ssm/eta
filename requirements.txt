@@ -1,0 +1,4 @@
+airmon-ng
+airbase-ng
+apache2 web server
+dnsmasq
