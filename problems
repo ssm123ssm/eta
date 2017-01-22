@@ -1,4 +1,4 @@
-Check if requirements met
+## Check if requirements met - done
 MAC
 DHCP config file - regex problem ( only xx.xx.xxx.1/24 compatible )
 permenently backup html, apache config and dnsmasq configs. 
