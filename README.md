@@ -11,3 +11,5 @@ It asks the victim to enter the passphrase to re-establish connection, captures 
 
 Web server is run by Apache, DNS and DHCP configuration by Dnsmasq and fake AP by Airbase-ng.
 
+Extract the files, run eta.sh under root.
+
